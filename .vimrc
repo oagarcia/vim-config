@@ -1,3 +1,6 @@
+"My base vim config file
+"@author: Andres Garcia <oagarciar@gmail.com>
+
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
